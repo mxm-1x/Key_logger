@@ -54,8 +54,8 @@ This project uses:
 This project is licensed under the MIT License - see the LICENSE file for details
 
 ## Contact
-Your Name - [malharmahanor@gmail.com]
-Project Link: [https://github.com/mxm-1x/Key_logger.git]
+Your Name - [malharmahanor@gmail.com]<br/>
+Project Link: [https://github.com/mxm-1x/Key_logger.git]<br/>
 Hosted Link: [https://mxm-1x.github.io/Key_logger/]
 
 ## Browser Support
