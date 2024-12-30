@@ -11,7 +11,7 @@ A simple and interactive web-based key logger that captures and displays keyboar
 ## Installation
 1. Clone the repository
 ```bash
-git clone [repository-url]
+git clone [https://github.com/mxm-1x/Key_logger.git]
 ```
 2. Open the project directory
 3. Open `index.html` in your preferred web browser
@@ -54,8 +54,9 @@ This project uses:
 This project is licensed under the MIT License - see the LICENSE file for details
 
 ## Contact
-Your Name - [your.email@example.com]
-Project Link: [repository-url]
+Your Name - [malharmahanor@gmail.com]
+Project Link: [https://github.com/mxm-1x/Key_logger.git]
+Hosted Link: []
 
 ## Browser Support
 - Chrome (latest)
